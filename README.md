@@ -21,8 +21,8 @@
 <br>
 <br>
 
-<!-- DISCORD BUTTONS -->
-<p align="center">
+<!-- DISCORD BUTTONS - LEFT -->
+<p align="left">
   <a href="https://discord.gg/StwWpg4F8V">
     <img src="https://img.shields.io/badge/LOJA_MK-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="LOJA MK" />
   </a>
