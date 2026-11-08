@@ -1,10 +1,16 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header" alt="" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pf6939917-boop&color=red&style=for-the-badge" alt="Visitas" />
 </p>
 
 <h1 align="center">☠️ HACKER</h1>
 
-<h3 align="center">FiveM Developer | Map Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=FiveM+Developer;Map+Developer;Lua+%26+JavaScript" alt="FiveM Developer | Map Developer" />
+</p>
 
 <br>
 
@@ -17,14 +23,8 @@
   </picture>
 </p>
 
-<br>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pf6939917-boop/pf6939917-boop/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pf6939917-boop/pf6939917-boop/output/github-snake.svg">
-    <img alt="Snake" src="https://raw.githubusercontent.com/pf6939917-boop/pf6939917-boop/output/github-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pf6939917-boop&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <br>
@@ -37,4 +37,8 @@
   <a href="https://discord.gg/StwWpg4F8V"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="28" align="absmiddle" alt="" /> <b>LOJA MK</b></a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/U7gyyqcmvu"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="28" align="absmiddle" alt="" /> <b>NEXA RP</b></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
 </p>
