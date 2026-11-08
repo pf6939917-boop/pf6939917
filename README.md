@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=footer&text=%E2%98%A0%EF%B8%8F%20HACKER&fontSize=50&fontColor=ffffff&fontAlignY=65" alt="HACKER" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=footer&text=%E2%98%A0%EF%B8%8F%20HACKER&fontSize=50&fontColor=ffffff&fontAlignY=30&reversal=true" alt="HACKER" />
 </p>
