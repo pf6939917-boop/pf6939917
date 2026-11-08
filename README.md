@@ -10,20 +10,6 @@
 
 <br>
 
-<h3 align="center">🔗 Discord</h3>
-
-<p align="center">
-  🏪 <b>MK SHOP</b><br>
-  <a href="https://discord.gg/StwWpg4F8V">https://discord.gg/StwWpg4F8V</a>
-</p>
-
-<p align="center">
-  🎮 <b>NEXA RP</b><br>
-  <a href="https://discord.gg/U7gyyqcmvu">https://discord.gg/U7gyyqcmvu</a>
-</p>
-
-<br>
-
 <p align="center">
   <img height="auto" width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=pf6939917-boop&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&custom_title=GitHub+Stats" alt="GitHub Stats" />
   <picture>
@@ -31,4 +17,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pf6939917-boop&theme=prussian&hide_border=true&background=00000000&stroke=CBCBCB&ring=00A86B&fire=00A86B&currStreakNum=3A3A3A&sideNums=00A86B&currStreakLabel=3A3A3A&sideLabels=3A3A3A&dates=818181">
     <img alt="GitHub Streak" width="49%" src="https://streak-stats.demolab.com?user=pf6939917-boop&theme=prussian&hide_border=true&background=00000000&ring=00A86B&fire=00A86B">
   </picture>
+</p>
+
+<br>
+
+<h3 align="center">🔗 Discord</h3>
+
+<p align="center">
+  <a href="https://discord.gg/StwWpg4F8V">🏪 <b>MK SHOP</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://discord.gg/U7gyyqcmvu">🎮 <b>NEXA RP</b></a>
 </p>
