@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pf6939917-boop/pf6939917-boop/main/banner.png" width="600" alt="HACKER" />
-</p>
+<h1 align="center">☠️ HACKER</h1>
 
 <h3 align="center">FiveM Developer | Map Developer</h3>
 
