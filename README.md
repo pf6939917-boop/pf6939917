@@ -19,23 +19,17 @@
 </p>
 
 <br>
+<br>
 
-<!-- BADGES -->
+<!-- DISCORD BUTTONS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FIVEM-555555?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
-  <img src="https://img.shields.io/badge/DEVELOPER-FF4545?style=for-the-badge" alt="Developer" />
-  <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <a href="https://discord.gg/StwWpg4F8V">
-    <img src="https://img.shields.io/badge/LOJA_MK-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Loja MK Discord" />
+    <img src="https://img.shields.io/badge/LOJA_MK-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="LOJA MK" />
   </a>
   <a href="https://discord.gg/U7gyyqcmvu">
-    <img src="https://img.shields.io/badge/NEXA_RP-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Nexa RP Discord" />
+    <img src="https://img.shields.io/badge/NEXA_RP-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="NEXA RP" />
   </a>
 </p>
-
-<br>
-<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer" />
