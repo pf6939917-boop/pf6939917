@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&text=%E2%98%A0%EF%B8%8F%20HACKER&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="HACKER" />
 </p>
@@ -19,19 +20,23 @@
 
 <br>
 
+<!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FiveM-Developer-red?style=for-the-badge" alt="FiveM" align="absmiddle" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" align="absmiddle" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" align="absmiddle" />
-  &nbsp;
-  <a href="https://discord.gg/StwWpg4F8V"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="28" align="absmiddle" alt="" /> <b>LOJA MK</b></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/U7gyyqcmvu"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="28" align="absmiddle" alt="" /> <b>NEXA RP</b></a>
+  <img src="https://img.shields.io/badge/FIVEM-555555?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
+  <img src="https://img.shields.io/badge/DEVELOPER-FF4545?style=for-the-badge" alt="Developer" />
+  <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <a href="https://discord.gg/StwWpg4F8V">
+    <img src="https://img.shields.io/badge/LOJA_MK-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Loja MK Discord" />
+  </a>
+  <a href="https://discord.gg/U7gyyqcmvu">
+    <img src="https://img.shields.io/badge/NEXA_RP-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Nexa RP Discord" />
+  </a>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer" />
 </p>
