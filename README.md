@@ -16,13 +16,11 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FiveM-Developer-red?style=for-the-badge" alt="FiveM" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/StwWpg4F8V"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="24" align="absmiddle" alt="" /> <b>LOJA MK</b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/U7gyyqcmvu"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="24" align="absmiddle" alt="" /> <b>NEXA RP</b></a>
+  <img src="https://img.shields.io/badge/FiveM-Developer-red?style=for-the-badge" alt="FiveM" align="absmiddle" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" align="absmiddle" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" align="absmiddle" />
+  &nbsp;
+  <a href="https://discord.gg/StwWpg4F8V"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="28" align="absmiddle" alt="" /> <b>LOJA MK</b></a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/U7gyyqcmvu"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="28" align="absmiddle" alt="" /> <b>NEXA RP</b></a>
 </p>
