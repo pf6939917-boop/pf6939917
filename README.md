@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header" alt="" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pf6939917-boop&color=red&style=for-the-badge" alt="Visitas" />
-</p>
-
 <h3 align="center">☠️ HACKER</h3>
 
 <p align="center">
