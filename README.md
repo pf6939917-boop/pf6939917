@@ -22,13 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/StwWpg4F8V">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="28" align="absmiddle" alt="Discord" />
-    <img src="https://img.shields.io/badge/LOJA%20MK-5865F2?style=for-the-badge" align="absmiddle" alt="LOJA MK" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/U7gyyqcmvu">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="28" align="absmiddle" alt="Discord" />
-    <img src="https://img.shields.io/badge/NEXA%20RP-5865F2?style=for-the-badge" align="absmiddle" alt="NEXA RP" />
-  </a>
+  <a href="https://discord.gg/StwWpg4F8V"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="24" align="absmiddle" alt="" /> <b>LOJA MK</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/U7gyyqcmvu"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="24" align="absmiddle" alt="" /> <b>NEXA RP</b></a>
 </p>
