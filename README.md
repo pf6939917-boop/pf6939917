@@ -6,10 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=pf6939917-boop&color=red&style=for-the-badge" alt="Visitas" />
 </p>
 
-<h1 align="center">☠️ HACKER</h1>
+<h3 align="center">☠️ HACKER</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=FiveM+Developer;Map+Developer;Lua+%26+JavaScript" alt="FiveM Developer | Map Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=FiveM+Developer;Map+Developer;Lua+%26+JavaScript" alt="FiveM Developer | Map Developer" />
 </p>
 
 <br>
@@ -21,10 +21,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pf6939917-boop&theme=prussian&hide_border=true&background=00000000&stroke=CBCBCB&ring=00A86B&fire=00A86B&currStreakNum=3A3A3A&sideNums=00A86B&currStreakLabel=3A3A3A&sideLabels=3A3A3A&dates=818181">
     <img alt="GitHub Streak" width="49%" src="https://streak-stats.demolab.com?user=pf6939917-boop&theme=prussian&hide_border=true&background=00000000&ring=00A86B&fire=00A86B">
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pf6939917-boop&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <br>
