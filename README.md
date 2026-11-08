@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pf6939917-boop&color=red&style=for-the-badge" alt="Visitas" />
+</p>
+
 <h1 align="center">☠️ HACKER</h1>
 
 <h3 align="center">FiveM Developer | Map Developer</h3>
@@ -10,6 +14,16 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pf6939917-boop&theme=prussian&hide_border=true&background=00000000&stroke=DDDDDD&ring=00A86B&fire=00A86B&currStreakNum=FFFFFF&sideNums=00A86B&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=BEBEBE">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=pf6939917-boop&theme=prussian&hide_border=true&background=00000000&stroke=CBCBCB&ring=00A86B&fire=00A86B&currStreakNum=3A3A3A&sideNums=00A86B&currStreakLabel=3A3A3A&sideLabels=3A3A3A&dates=818181">
     <img alt="GitHub Streak" width="49%" src="https://streak-stats.demolab.com?user=pf6939917-boop&theme=prussian&hide_border=true&background=00000000&ring=00A86B&fire=00A86B">
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pf6939917-boop/pf6939917-boop/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pf6939917-boop/pf6939917-boop/output/github-snake.svg">
+    <img alt="Snake" src="https://raw.githubusercontent.com/pf6939917-boop/pf6939917-boop/output/github-snake.svg">
   </picture>
 </p>
 
