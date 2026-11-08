@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header" alt="" />
-</p>
-
 <h3 align="center">☠️ HACKER</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=FiveM+Developer;Map+Developer;Lua+%26+JavaScript" alt="FiveM Developer | Map Developer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header" alt="" />
 </p>
 
 <br>
