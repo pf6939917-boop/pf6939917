@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/FiveM-Developer-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Map-Developer-orange?style=for-the-badge" />
 </p>
 
 <br>
@@ -14,12 +13,13 @@
 <h3 align="center">🔗 Discord</h3>
 
 <p align="center">
-  <a href="https://discord.gg/StwWpg4F8V">
-    <img src="https://img.shields.io/badge/🏪_MK_SHOP-Entrar_no_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/U7gyyqcmvu">
-    <img src="https://img.shields.io/badge/🎮_NEXA_RP-Entrar_no_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  🏪 <b>MK SHOP</b><br>
+  <a href="https://discord.gg/StwWpg4F8V">https://discord.gg/StwWpg4F8V</a>
+</p>
+
+<p align="center">
+  🎮 <b>NEXA RP</b><br>
+  <a href="https://discord.gg/U7gyyqcmvu">https://discord.gg/U7gyyqcmvu</a>
 </p>
 
 <br>
