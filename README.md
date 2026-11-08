@@ -16,12 +16,9 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FiveM-Developer-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/StwWpg4F8V"><img src="https://img.shields.io/badge/MK_SHOP-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://discord.gg/U7gyyqcmvu"><img src="https://img.shields.io/badge/NEXA_RP-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/FiveM-Developer-red?style=for-the-badge" alt="FiveM" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <a href="https://discord.gg/StwWpg4F8V"><img src="https://img.shields.io/badge/MK%20SHOP-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="MK SHOP" /></a>
+  <a href="https://discord.gg/U7gyyqcmvu"><img src="https://img.shields.io/badge/NEXA%20RP-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="NEXA RP" /></a>
 </p>
